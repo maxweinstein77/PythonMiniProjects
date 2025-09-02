@@ -3,4 +3,4 @@ This repo contains my code for the [Python Mini Projects](https://github.com/Pyt
 
 ## 🛠️ Projects
 
-- ✅ Project 1: TBD
+- ✅ [Hello World](hello.py)
